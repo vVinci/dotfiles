@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vvinci@protonmail.com
+	name = Vinicius Vinci
