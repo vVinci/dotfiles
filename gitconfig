@@ -52,3 +52,6 @@
 [user]
 	email = vvinci@protonmail.com
 	name = Vinicius Vinci
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
